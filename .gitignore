@@ -13,6 +13,9 @@ gen
 *.ipr
 *.iws
 out
+.gradle
+build
+gradlew*
 
 #Maven
 target
